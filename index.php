@@ -1,7 +1,7 @@
 <?php
 // Load Config
 $config = parse_ini_file('config.ini');
-
+// test
 // Declare Variables
 $dbSuccess = false;
 $dbVersion = false;
